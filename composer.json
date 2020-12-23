@@ -18,8 +18,11 @@
     }
   ],
   "autoload": {
-    "psr-0": {
+    "psr-4": {
       "Dependency\\": "src/"
-    }
+    },
+    "files": [
+      "src/Helper/Helper.php.php"
+    ]
   }
 }
