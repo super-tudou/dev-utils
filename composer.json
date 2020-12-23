@@ -17,9 +17,6 @@
       "role": "master"
     }
   ],
-  "require": {
-    "php": ">=7.0.*"
-  },
   "autoload": {
     "psr-0": {
       "Dependency": "dependency"
