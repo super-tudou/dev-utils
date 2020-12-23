@@ -11,7 +11,7 @@ namespace App\Service;
 
 use App\Common\AbstractClass;
 use App\Facades\Http\Facade\HttpFacade;
-use Dependency\Container\AutoLocatorTrait;
+use Dependency\AutoLocatorTrait;
 
 /**
  * Class OrderService
