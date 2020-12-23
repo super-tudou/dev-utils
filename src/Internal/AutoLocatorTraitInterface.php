@@ -2,7 +2,7 @@
 /**
  * Created by PhpStorm.
  * @file   AutoLocatorTraitInterface.php
- * @author 李锦 <jin.li@vhall.com>
+ * @author 李锦 <244395692@qq.com>
  * @date   2020/12/7 11:05 上午
  * @desc   AutoLocatorTraitInterface.php
  */

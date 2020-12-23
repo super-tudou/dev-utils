@@ -2,7 +2,7 @@
 /**
  * Created by PhpStorm.
  * @file   GoodsService.php
- * @author 李锦 <jin.li@vhall.com>
+ * @author 李锦 <244395692@qq.com>
  * @date   2020/12/5 1:15 下午
  * @desc   GoodsService.php
  */

@@ -2,7 +2,7 @@
 /**
  * Created by PhpStorm.
  * @file   AbstractClass.php
- * @author 李锦 <jin.li@vhall.com>
+ * @author 李锦 <244395692@qq.com>
  * @date   2020/12/5 1:13 下午
  * @desc   AbstractClass.php
  */
