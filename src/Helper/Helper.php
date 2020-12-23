@@ -7,8 +7,8 @@
  * @desc   Helper.php
  */
 
-use Dependency\Container\Container;
-use Dependency\Container\Invoke;
+use Dependency\Container;
+use Dependency\Invoke;
 
 if (!function_exists('app')) {
     /**
