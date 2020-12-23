@@ -22,7 +22,7 @@
       "Dependency\\": "src/"
     },
     "files": [
-      "src/Helper/Helper.php.php"
+      "src/Helper/Helper.php"
     ]
   }
 }
