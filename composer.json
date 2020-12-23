@@ -1,0 +1,28 @@
+{
+  "name": "jin/dev-utils",
+  "type": "library",
+  "description": "dev help tools",
+  "keywords": [
+    "dev",
+    "tools",
+    "utils"
+  ],
+  "homepage": "https://github.com/18810393932",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tu.dou",
+      "email": "244395692@qq.com",
+      "homepage": "https://github.com/18810393932",
+      "role": "master"
+    }
+  ],
+  "require": {
+    "php": ">=7.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "Dependency": "dependency"
+    }
+  }
+}
