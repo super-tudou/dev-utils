@@ -19,7 +19,8 @@
   ],
   "autoload": {
     "psr-4": {
-      "Dependency\\": "src/"
+      "Dependency\\": "src/",
+      "App\\": "test/"
     },
     "files": [
       "src/Helper/Helper.php"
