@@ -8,7 +8,7 @@
  */
 
 //\App\Controller\GoodsController::getInstance()->index();
-include "../vendor/autoload.php";
+include "../../../../vendor/autoload.php";
 
 use App\Controller\GoodsController;
 use App\Model\GoodsModel;
